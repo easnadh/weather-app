@@ -1,0 +1,18 @@
+.scroll {
+  text-align: center;
+  box-sizing: border-box;
+  width: auto;
+  max-width: 100%;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+.hourly {
+  display: flex;
+}
+
+.item {
+  display: inline-block;
+  text-align: center;
+  padding: 15px 0;
+}
